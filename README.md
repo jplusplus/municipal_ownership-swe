@@ -4,12 +4,12 @@
 
 Vanliga frågor:
 
-* [Är listan fullständig?](#Är-listan-fullständig?)
-* [Finns det mer data?](#Finns-det-mer-data?)
-* [Vad ska man göra med detta?](#Vad-ska-man-göra-med-detta?)
-* [Vad menas med ägande egentligen?](#Vad-menas-med-ägande-egentligen??)
-* [Var är listan då???](#Var-är-listan-då???)
-* [Källor](#Källor)
+* [Är listan fullständig?](###Är-listan-fullständig?)
+* [Finns det mer data?](###Finns-det-mer-data?)
+* [Vad ska man göra med detta?](###Vad-ska-man-göra-med-detta?)
+* [Vad menas med ägande egentligen?](###Vad-menas-med-ägande-egentligen??)
+* [Var är listan då???](###Var-är-listan-då???)
+* [Källor](###Källor)
 
 
 ### Är listan fullständig?
