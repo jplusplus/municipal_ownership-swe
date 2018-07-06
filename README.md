@@ -4,7 +4,7 @@
 
 Vanliga frågor:
 
-* [Är listan fullständig?](#är-listan-fullständig)
+* [Är listan fullständig?](#Är-listan-fullständig)
 * [Finns det mer data?](#finns-det-mer-data)
 * [Vad ska man göra med detta?](#vad-ska-man-göra-med-detta)
 * [Vad menas med ägande egentligen?](#vad-menas-med-ägande-egentligen)
