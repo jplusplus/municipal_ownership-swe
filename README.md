@@ -1,6 +1,6 @@
 # Kommunkoncerner 2018 | Journalism++ Stockholm
 
-*Kommunkoncerner 2018* är den mest omfattande listan över kommuners ägande som finns publikt på ett och samma ställe. Totalt har vi fått fram 935 bolag och stiftelser.
+*Kommunkoncerner 2018* är den mest omfattande listan över kommuners ägande som finns publikt på ett och samma ställe. Totalt har vi fått fram **1819** bolag och stiftelser.
 
 Vanliga frågor:
 
