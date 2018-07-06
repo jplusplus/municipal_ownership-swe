@@ -22,5 +22,5 @@ Du kan använda filtret (klicka på tratten) för att plocka fram kommuner som �
 
 http://jpp.to/kommunforetagen
 
-*Innehåller denna lista några fel eller vill du bara prata? Kontakta sascha@jplusplus.org.*
+*Innehåller denna lista några fel eller vill du bara prata? Kontakta stockholm@jplusplus.org.*
 
