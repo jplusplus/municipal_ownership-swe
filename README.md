@@ -22,7 +22,7 @@ Vi har valt att inte lägga upp personuppgifter (bl.a. vem som är VD, styrelse 
 
 ### Vad ska man göra med detta?
 
-Vad du vill! Hint: enligt *2 kap. 3 § offentlighet- och sekretesslagen* gäller offentlighetsprincipen även i bolag där kommuner är majoritetsägare. Du kan använda filtret (klicka på tratten) för att plocka fram kommuner som är intressanta för dig.
+Vad du vill! Hint: enligt *2 kap. 3 § offentlighet- och sekretesslagen* gäller offentlighetsprincipen även i bolag där kommuner är majoritetsägare. Du kan ~~använda filtret (klicka på tratten)~~ (borta tills vidare) ladda ned listan för att plocka fram kommuner som är intressanta för dig.
 
 ### Vad menas med ägande egentligen? 
 I listan finns bolag/stiftelser som ägs av kommuner men också bolag/stiftelser som ägs av bolag/stiftelser som ägs av kommuner, eller s.k. inception-bolag. Notera att det i listan inte framgår om ett bolags ägs i ett sådant mer komplext ägandeförhållande såsom den ser ut i dag.
